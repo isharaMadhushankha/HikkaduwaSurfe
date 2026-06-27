@@ -1,8 +1,4 @@
-මචං, **HikkaSurf** ප්‍රොජෙක්ට් එකට ගැලපෙන, GitHub එකේ සුපිරියටම පේන, Professional සහ Attractive **`README.md`** ෆයිල් එකක් මෙන්න.
 
-මේකෙත් උඩම Screenshots දාන්න ලස්සන Table එකක් සහ Architecture එක පෙන්වන්න **Mermaid Diagram** එකක් ඇතුළත් කරලා තියෙන්නේ. කලින් වගේම **Copy** බටන් එකෙන් එකපාරින්ම කොපි කරගන්න:
-
-```markdown
 # 🏄‍♂️🌊 HikkaSurf - Surf Lesson Booking & Instructor Marketplace
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
