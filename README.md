@@ -179,6 +179,3 @@ flutter run
 * **Timeline:** Jun. 2025 – Dec. 2025
 * **Target Platforms:** Android & iOS (Cross-Platform)
 
-```
-
-```
